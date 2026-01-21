@@ -36,8 +36,6 @@ import org.openqa.selenium.WebDriver;
 	        driver.findElement(By.xpath("//input[@placeholder='Enter OTP']")).sendKeys("1234");
 	        driver.findElement(By.xpath("//button[text()='Login']")).click();
 	        Thread.sleep(2000);
-	        driver.findElement(By.xpath("//a[@class='nav-link']/../..//a[text()='Time Slot']")).click();
-	        Thread.sleep(2000);
 	    }
 
 	    @AfterMethod
