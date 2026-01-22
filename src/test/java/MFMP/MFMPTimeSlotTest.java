@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 import Base.BaseTest;
 
-public class MFMPTimeSlot extends BaseTest{
+public class MFMPTimeSlotTest extends BaseTest{
 
 	
 	
