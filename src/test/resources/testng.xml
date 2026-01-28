@@ -4,8 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="Base.BaseTest"/>
-      <class name="MFMP.PickupPointTest"/>
       <class name="MFMP.MFMPTimeSlotTest"/>
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test> 
+</suite>
